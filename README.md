@@ -54,7 +54,7 @@ This game was created in just **2 days**, during the **Kenney Jam 2025**, which 
 
 # You can play it here!
 https://6ajmon.itch.io/deadline
-### But we recommend downloading the release [here](https://github.com/6ajmon/kenneygamejam/releases) for better performance
+### But we recommend downloading the release [here](https://github.com/sighmonk/Deadline/releases) for better performance
 
 # Credits
 
